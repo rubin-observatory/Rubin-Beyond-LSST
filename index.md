@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Home
-description: Rubin Future is a community planning hub for the future of Rubin Observatory after LSST.
+description: Rubin Beyond LSST is a community planning effort for Rubin Observatory science beyond LSST.
 ---

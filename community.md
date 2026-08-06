@@ -14,7 +14,7 @@ If you wish to add relevant documents or advertise relevant meetings, please mak
 
 ## Code of Conduct
 
-The Rubin Future effort adheres to the [Rubin Observatory Code of Conduct](https://rubinobservatory.org/for-scientists/code-of-conduct).
+The Rubin Beyond LSST effort adheres to the [Rubin Observatory Code of Conduct](https://rubinobservatory.org/for-scientists/code-of-conduct).
 
 ## Contact
 

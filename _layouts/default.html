@@ -12,8 +12,8 @@
     <header class="site-header">
       <nav class="site-nav" aria-label="Primary navigation">
         <a class="brand" href="{% include link-target.html url='/' %}">
-          <span class="brand-mark" aria-hidden="true">RF</span>
-          <span class="brand-text">Rubin Future</span>
+          <span class="brand-mark" aria-hidden="true">RBL</span>
+          <span class="brand-text">{{ site.title }}</span>
         </a>
         <ul class="nav-list">
           {% for item in site.navigation %}
@@ -31,7 +31,7 @@
 
     <footer class="site-footer">
       <div class="footer-inner">
-        <p>Rubin Future is a community planning effort for the post-LSST future of Rubin Observatory.</p>
+        <p>{{ site.title }} is a community planning effort for Rubin Observatory science beyond LSST.</p>
         <p class="fine-print">Hero image credit: NSF-DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA/P. Lago.</p>
       </div>
     </footer>

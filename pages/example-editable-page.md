@@ -1,6 +1,6 @@
 ---
 title: Example Editable Page
-lede: This page is an example of a document entry that lives directly on the Rubin Future website.
+lede: This page is an example of a document entry that lives directly on the Rubin Beyond LSST website.
 ---
 
 This is a normal Markdown page in the repository. Edit this file to update the page content, then commit and push to publish the changes through GitHub Pages.

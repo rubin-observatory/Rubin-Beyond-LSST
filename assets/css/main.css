@@ -76,6 +76,7 @@ a:hover {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
   gap: 1.25rem;
 }
 
@@ -97,7 +98,8 @@ a:hover {
   border-radius: 50%;
   color: #ffffff;
   background: conic-gradient(from 210deg, var(--rubin-red), var(--sunset), var(--cyan), var(--violet), var(--rubin-red));
-  font-size: 0.78rem;
+  font-size: 0.72rem;
+  font-weight: 800;
   letter-spacing: 0;
 }
 
@@ -174,12 +176,20 @@ a:hover {
 }
 
 .home-hero h1 {
-  max-width: 12ch;
+  max-width: none;
   margin: 0;
   color: #ffffff;
-  font-size: clamp(3.8rem, 11vw, 8.5rem);
+  font-size: clamp(3.8rem, 11vw, 7.6rem);
   line-height: 0.92;
   letter-spacing: 0;
+}
+
+.hero-title span {
+  display: block;
+}
+
+.hero-title-nowrap {
+  white-space: nowrap;
 }
 
 .hero-lede {
@@ -524,6 +534,12 @@ h3 {
   }
 
   .home-hero h1 {
-    font-size: 3.7rem;
+    font-size: 3.4rem;
+  }
+}
+
+@media (max-width: 360px) {
+  .home-hero h1 {
+    font-size: 3rem;
   }
 }

@@ -1,13 +1,13 @@
-# Rubin Future
+# Rubin Beyond LSST
 
-Source for the Rubin Future GitHub Pages site:
+Source for the Rubin Beyond LSST GitHub Pages site:
 
 https://rubin-observatory.github.io/Rubin2036/
 
-Rubin Future is a community planning hub for what Rubin Observatory can become after the Legacy Survey of Space and Time.
+Rubin Beyond LSST is a community planning effort for Rubin Observatory science beyond LSST.
 
 > [!NOTE]
-> This site is under construction as the Rubin Future effort takes shape.
+> This site is under construction as the Rubin Beyond LSST effort takes shape.
 
 ## Editing Content
 
@@ -69,7 +69,7 @@ To link to an editable page that lives on this website, create a Markdown file a
   type: Website page
 ```
 
-Use root-relative paths for pages in this site; Jekyll adds the configured `/rubin-future` base path when building for GitHub Pages.
+Use root-relative paths for pages in this site; Jekyll adds the configured `/Rubin2036` base path when building for GitHub Pages.
 
 ### Edit Pages
 

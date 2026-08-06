@@ -1,6 +1,6 @@
 ---
 title: Documents
-#lede: Shared papers, notes, reports, slides, and reference links for Rubin Future planning.
+#lede: Shared papers, notes, reports, slides, and reference links for Rubin Beyond LSST planning.
 ---
 
 {% assign documents_by_year = site.data.documents | sort: "year" | reverse %}

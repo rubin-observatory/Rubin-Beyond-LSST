@@ -2,21 +2,23 @@
 layout: default
 ---
 
-<section class="home-hero" aria-label="Rubin Future">
+<section class="home-hero" aria-label="{{ site.title }}">
   <div class="hero-overlay">
     <div class="wrap hero-content">
       <p class="eyebrow">Community hub for the post-LSST era</p>
-      <h1>Rubin Future</h1>
+      <h1 class="hero-title" aria-label="{{ site.title }}">
+        <span>Rubin</span>
+        <span class="hero-title-nowrap">Beyond LSST</span>
+      </h1>
       <p class="hero-lede">
-        A shared home to plan for Rubin Observatory science<br>
-        in the post-LSST era
+        A shared home to plan for Rubin Observatory science beyond LSST
       </p>
       <div class="hero-actions" aria-label="Primary actions">
         <a class="button button-secondary" href="{% include link-target.html url='/meetings/' %}">Meetings</a>
         <a class="button button-secondary" href="{% include link-target.html url='/documents/' %}">Documents</a>
         <a class="button button-secondary" href="{% include link-target.html url='/community/' %}">Participate</a>
       </div>
-      <p class="construction-callout">This site is under construction as the Rubin Future effort takes shape.</p>
+      <p class="construction-callout">This site is under construction as the {{ site.title }} effort takes shape.</p>
     </div>
   </div>
 </section>
