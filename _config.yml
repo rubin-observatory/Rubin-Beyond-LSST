@@ -1,7 +1,7 @@
 title: Rubin Future
 description: Community planning for the future of Rubin Observatory after LSST
-url: "https://jfcrenshaw.github.io"
-baseurl: "/rubin-future"
+url: "https://rubin-observatory.github.io"
+baseurl: "/Rubin2036"
 
 markdown: kramdown
 permalink: pretty

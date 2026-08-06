@@ -2,7 +2,7 @@
 
 Source for the Rubin Future GitHub Pages site:
 
-https://jfcrenshaw.github.io/rubin-future/
+https://rubin-observatory.github.io/Rubin2036/
 
 Rubin Future is a community planning hub for what Rubin Observatory can become after the Legacy Survey of Space and Time.
 
