@@ -320,6 +320,16 @@ h3 {
     url("../img/rubin-milky-way.jpg") center 38% / cover no-repeat;
 }
 
+.page-hero--image {
+  padding: 0;
+  background: var(--night);
+}
+
+.page-hero--image img {
+  display: block;
+  width: 100%;
+}
+
 .page-hero h1 {
   color: #ffffff;
   font-size: clamp(2.7rem, 7vw, 5.4rem);
@@ -330,6 +340,41 @@ h3 {
   margin: 1rem 0 0;
   color: rgba(255, 255, 255, 0.9);
   font-size: clamp(1.05rem, 2vw, 1.28rem);
+}
+
+.page-title-section {
+  padding: clamp(2.2rem, 5vw, 3.8rem) 0;
+  border-bottom: 1px solid var(--line);
+  background: var(--surface);
+}
+
+.page-title-section h1 {
+  font-size: clamp(2.2rem, 5.5vw, 4rem);
+}
+
+.page-title-section .lede {
+  max-width: 760px;
+  margin: 0.85rem 0 0;
+  color: var(--muted);
+  font-size: clamp(1.02rem, 2vw, 1.2rem);
+}
+
+.prose figure {
+  margin: 1.5rem 0 2rem;
+}
+
+.prose figure img {
+  display: block;
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(8, 11, 18, 0.08);
+}
+
+.prose figcaption {
+  margin-top: 0.55rem;
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .item-list {

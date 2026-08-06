@@ -1,6 +1,8 @@
 ---
 title: Rubin2036 Workshop Proceedings
 lede: Science cases and technical upgrades explored at the August 2026 workshop
+hero_image: /assets/img/rubin2036_banner.jpg
+hero_image_alt: Rubin 2036 banner with Vera C. Rubin Observatory, NSF, Department of Energy, and KIPAC logos.
 ---
 
 Page under construction...
@@ -32,3 +34,8 @@ To add your document:
 3. Make a Pull Request to this repository.
 
 The admins will review your document for consistency with the template and coherence and merge in your changes.
+
+<figure>
+  <img src="{% include link-target.html url='/assets/img/rubin2036_group_photo.jpg' %}" alt="Rubin 2036 workshop participants gathered for a group photo, with several remote participant headshots along the bottom.">
+  <figcaption>Rubin 2036 workshop group photo.</figcaption>
+</figure>

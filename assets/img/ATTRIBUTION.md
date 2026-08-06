@@ -6,3 +6,7 @@
 - Source: https://rubinobservatory.org/gallery/collections/featured-media/5ourjnkk156lfbqaahfppehs2c
 - Credit: NSF-DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA/P. Lago
 - License/use guidance: https://rubinobservatory.org/gallery/media-policy
+
+## `rubin2036_banner.jpg` and `rubin2036_group_photo.jpg`
+
+- Provided by Andrés Alejandro Plazas Malagón
