@@ -188,7 +188,8 @@ a:hover {
   display: block;
 }
 
-.hero-title-nowrap {
+.hero-title .hero-title-nowrap {
+  display: inline-block;
   white-space: nowrap;
 }
 
