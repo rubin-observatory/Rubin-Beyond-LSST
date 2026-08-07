@@ -6,4 +6,4 @@
     unlabeled ugrizy pixels, that performs scene-level detection, deblending, and
     star/galaxy classification at the faint, crowded end — shown on real LSST DP1
     imaging to rival fully supervised performance from only 5–15% of the labels.
-  date: 08/07/2026
+  date: 2026-08-07
