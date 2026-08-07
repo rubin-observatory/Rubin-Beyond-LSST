@@ -1,8 +1,9 @@
-- title: Example placeholder document
-  url: "#"
-  authors: Your Names Here
+- title: A survey-native foundation model for the faint, crowded end
+  url: "https://doi.org/10.5281/zenodo.21843812"
+  authors: Prince Yadav (UIUC)
   description: |
-    Add a new paper by editing the yaml file.
-    Copy this template entry, add your Zenodo link under `url`,
-    and enter a one-sentence abstract under `description`.
-  date: 2026-07-05
+    A survey-native foundation model, pretrained self-supervised on Rubin's own
+    unlabeled ugrizy pixels, that performs scene-level detection, deblending, and
+    star/galaxy classification at the faint, crowded end — shown on real LSST DP1
+    imaging to rival fully supervised performance from only 5–15% of the labels.
+  date: 08/07/2026
