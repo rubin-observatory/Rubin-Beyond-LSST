@@ -8,6 +8,7 @@ Rubin Beyond LSST is a community planning effort for Rubin Observatory science b
 
 > [!NOTE]
 > This site is under construction as the Rubin Beyond LSST effort takes shape.
+> Furthermore, the url is likely to change in the near future.
 
 ## Editing Content
 
