@@ -2,13 +2,12 @@
 
 Source for the Rubin Beyond LSST GitHub Pages site:
 
-https://rubin-observatory.github.io/Rubin2036/
+https://rubin-observatory.github.io/Rubin-Beyond-LSST/
 
 Rubin Beyond LSST is a community planning effort for Rubin Observatory science beyond LSST.
 
 > [!NOTE]
 > This site is under construction as the Rubin Beyond LSST effort takes shape.
-> Furthermore, the url is likely to change in the near future.
 
 ## Editing Content
 
@@ -70,7 +69,7 @@ To link to an editable page that lives on this website, create a Markdown file a
   type: Website page
 ```
 
-Use root-relative paths for pages in this site; Jekyll adds the configured `/Rubin2036` base path when building for GitHub Pages.
+Use root-relative paths for pages in this site; Jekyll adds the configured `/Rubin-Beyond-LSST` base path when building for GitHub Pages.
 
 ### Edit Pages
 

@@ -1,7 +1,7 @@
 title: Rubin Beyond LSST
 description: Community planning for Rubin Observatory science beyond LSST
 url: "https://rubin-observatory.github.io"
-baseurl: "/Rubin2036"
+baseurl: "/Rubin-Beyond-LSST"
 
 markdown: kramdown
 permalink: pretty
