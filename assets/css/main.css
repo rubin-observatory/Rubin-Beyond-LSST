@@ -544,3 +544,62 @@ h3 {
     font-size: 3rem;
   }
 }
+
+/* Rubin 2036 workshop agenda */
+.agenda-day {
+  margin: 1.5rem 0 0.4rem;
+  font-size: 1.1rem;
+}
+
+.agenda-day .agenda-sub {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.agenda-day .agenda-sub::before {
+  content: "— ";
+}
+
+.agenda-wrap {
+  overflow-x: auto;
+  margin: 0 0 1.4rem;
+}
+
+.agenda-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.86rem;
+  line-height: 1.35;
+}
+
+.agenda-table th,
+.agenda-table td {
+  text-align: left;
+  vertical-align: top;
+  padding: 0.38rem 0.7rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.agenda-table thead th {
+  color: var(--violet);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  border-bottom: 2px solid var(--line);
+}
+
+.agenda-table tbody tr:nth-child(odd) {
+  background: var(--paper);
+}
+
+.agenda-table td:first-child {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+  width: 1%;
+}
+
+.agenda-table td:last-child {
+  color: var(--muted);
+}

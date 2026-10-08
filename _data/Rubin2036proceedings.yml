@@ -1,8 +1,0 @@
-- title: Example placeholder document
-  url: "#"
-  authors: Your Names Here
-  description: |
-    Add a new paper by editing the yaml file.
-    Copy this template entry, add your Zenodo link under `url`,
-    and enter a one-sentence abstract under `description`.
-  date: 2026-07-05
