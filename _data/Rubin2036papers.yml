@@ -1,0 +1,31 @@
+# Post-workshop group white papers, archived in the Rubin 2036 Zenodo community
+# (https://zenodo.org/communities/rubin2036workshop). `url` is the Zenodo record.
+# Listed in working-group order (A, C, D, E). Group B's paper is not yet posted.
+
+- group: "Group A — Continued LSST-style surveying"
+  title: "Continued LSST-style surveying using ML: A survey-native foundation model for the faint, crowded end: scene-level detection, deblending, and classification learned from Rubin's own unlabeled pixels"
+  authors: Prince Yadav
+  url: https://zenodo.org/records/21843812
+  doi: 10.5281/zenodo.21843812
+  date: 2026-08-07
+
+- group: "Group C — Narrow- and medium-band surveys, new filters"
+  title: "Cosmology and Astrophysics with Vera C. Rubin Observatory Using New Filters"
+  authors: Lindsey Bleem, Alex Broughton, Jeffrey L. Carlin, Eric Charles, Anirudh Chiti, Suber Corley, et al.
+  url: https://zenodo.org/records/22898056
+  doi: 10.5281/zenodo.22898056
+  date: 2026-09-22
+
+- group: "Group D — Targets of opportunity and multi-messenger astronomy"
+  title: "Multi-Messenger Cosmology and Astrophysics after the LSST"
+  authors: Sean MacBride, Shenming Fu, Yijung Kang, Shreya Anand, Nandini Hazra, Meng-Xiang Lin, et al.
+  url: https://zenodo.org/records/22209624
+  doi: 10.5281/zenodo.22209624
+  date: 2026-08-31
+
+- group: "Group E — Enabling technology and upgrades"
+  title: "Enabling Technology and Upgrades for Rubin 2036"
+  authors: Steven Allen, Adam S. Bolton, Charles F. Claver, Holger Drass, Alex Drlica-Wagner, Kevin Fanning, et al.
+  url: https://zenodo.org/records/22983202
+  doi: 10.5281/zenodo.22983202
+  date: 2026-09-26

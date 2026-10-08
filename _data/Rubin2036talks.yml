@@ -1,0 +1,79 @@
+# Rubin 2036 workshop talk slides.
+# `url` points to the slide deck PDF in /assets/talks/.
+# Cards are sorted by `date` (most recent first) on the page.
+
+- title: "Rubin 2036: Workshop Introduction and Goals"
+  authors: Andrés A. Plazas Malagón
+  url: /assets/talks/plazas-malagon_introduction.pdf
+  description: |
+    Opening talk introducing the Rubin 2036 workshop, its motivation, structure,
+    and the charge to the five working groups.
+  date: 2026-08-03
+
+- title: "Rubin 2036: Technical Summary of Previous Workshops and Whitepapers"
+  authors: Aaron Roodman
+  url: /assets/talks/roodman_previous-work-technical-constraints.pdf
+  description: |
+    Review of prior post-LSST planning efforts and the technical constraints
+    relevant to Rubin operations after the LSST survey.
+  date: 2026-08-03
+
+- title: "NOIRLab and Rubin"
+  authors: Robert (Bob) Blum
+  url: /assets/talks/blum_noirlab-perspective.pdf
+  description: |
+    NOIRLab perspective on the Vera C. Rubin Observatory and its future
+    operations beyond the LSST.
+  date: 2026-08-03
+
+- title: "Rubin 2036 Lightning Talks"
+  authors: Workshop participants
+  url: /assets/talks/rubin2036_lightning-talks.pdf
+  description: |
+    Collected lightning talks contributed by workshop participants across the
+    five working-group themes.
+  date: 2026-08-03
+
+- title: "Spec-S5: A Next-Generation Spectroscopic Observatory"
+  authors: Claire Poppett
+  url: /assets/talks/poppett_next-generation-spectroscopic-observatory.pdf
+  description: |
+    The Spec-S5 concept for a next-generation wide-field spectroscopic facility
+    to complement Rubin.
+  date: 2026-08-04
+
+- title: "Spec-S5: The Concept from Snowmass"
+  authors: Jeffrey A. Newman
+  url: /assets/talks/newman_spec-s5-concept-from-snowmass.pdf
+  description: |
+    The Spec-S5 Stage-5 spectroscopic experiment concept as developed through the
+    Cosmic Frontier Snowmass process.
+  date: 2026-08-04
+
+- title: "Gravitational Wave Multimessenger Astronomy in the 2030s"
+  authors: Antonella Palmese
+  url: /assets/talks/palmese_gw-multimessenger-2030s.pdf
+  description: |
+    Prospects for gravitational-wave multimessenger astronomy in the 2030s and the
+    role Rubin can play in electromagnetic follow-up.
+  date: 2026-08-04
+
+# --- Rubin Community Workshop (RCW) 2026 session ---
+# RCW 2026: SLAC, Menlo Park, CA, 27-31 July 2026; the Rubin 2036 session was on
+# Friday, 31 July 2026. https://rubinobservatory.org/events/rubin-community-workshop-2026
+
+- title: "Gravitational Wave Astrophysics using Rubin Observatory after the LSST"
+  authors: Sean Patrick MacBride (University of Zurich)
+  url: /assets/talks/macbride_rcw_gw-astrophysics-with-rubin.pdf
+  description: |
+    Gravitational-wave astrophysics case for Rubin after the LSST, presented at the
+    Rubin 2036 session of the Rubin Community Workshop (RCW) 2026.
+  date: 2026-07-31
+
+- title: "Rubin 2036 Session at the Rubin Community Workshop 2026"
+  authors: Session organizers
+  url: /assets/talks/rcw2026_rubin2036-session.pdf
+  description: |
+    Introductory and session-chair slides for the Rubin 2036 session held at the
+    Rubin Community Workshop (RCW) 2026.
+  date: 2026-07-31
