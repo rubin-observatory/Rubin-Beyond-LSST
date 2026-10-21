@@ -1,6 +1,6 @@
 # Post-workshop group white papers, archived in the Rubin 2036 Zenodo community
 # (https://zenodo.org/communities/rubin2036workshop). `url` is the Zenodo record.
-# Listed in working-group order (A, C, D, E). Group B's paper is not yet posted.
+# Listed in working-group order (A, B, C, D, E).
 
 - group: "Group A — Continued LSST-style surveying"
   title: "Continued LSST-style surveying using ML: A survey-native foundation model for the faint, crowded end: scene-level detection, deblending, and classification learned from Rubin's own unlabeled pixels"
@@ -8,6 +8,13 @@
   url: https://zenodo.org/records/21843812
   doi: 10.5281/zenodo.21843812
   date: 2026-08-07
+
+- group: "Group B — Alternative cadences and footprints"
+  title: "Cosmology and Astrophysics with Vera C. Rubin Observatory Using Alternative Cadences and Footprints"
+  authors: Simon Birrer, Bob Blum, Rosaria Bonito, Rebecca Chen, et al.
+  url: https://zenodo.org/records/23422122
+  doi: 10.5281/zenodo.23422122
+  date: 2026-10-16
 
 - group: "Group C — Narrow- and medium-band surveys, new filters"
   title: "Cosmology and Astrophysics with Vera C. Rubin Observatory Using New Filters"
